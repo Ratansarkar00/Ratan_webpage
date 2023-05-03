@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    
+
+    <style>
+        body{
+
+            background-color: rgb(37, 43, 71);
+        
+        height: 2500px;
+        width: 10px;
+
+        background-position :top;
+        background-repeat: no-repeat;
+        background-size: cover;
+        color:rgb(84, 57, 57);
+        font-size: larger;
+        }
+     nav{
+        
+        background-color:rgb(209, 118, 118);
+        padding: 10px;
+        width: 700px;
+        color: rgb(117, 95, 95);
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-decoration: none;
+     }
+   img{
+
+    width: 500px;
+    height: 500px;
+    position: relative; left: 400px;
+   }
+   p{
+
+    position: relative; left: 600px; width: 200px;
+   }
+   a{
+    text-decoration: none;
+   }
+    </style>
+
+    
+</head>
+<body><h1 style="width: 200px; padding: 20px; font-family: 'Dancing Script', cursive;
+    font-family: 'Foldit', cursive; color: cornflowerblue;">Restro</h1>
+    <header>
+        <nav>
+            <a href="">Home Delivery &nbsp &nbsp </a>  
+            <a href="">Menu &nbsp &nbsp</a>
+            <a href="">About FoodZone &nbsp &nbsp</a>
+        </nav>
+    
+    </header>
+    <br>
+   <h4 style="width: 200px; margin: 10px; font-size:x-large ; font-family: serif;" >Top 5 foods </h4> 
+
+    <ol >
+        <li style="width: 200px;">Pav Bhaji</li>
+        <li style="width: 200px;">Paneer tikka</li>
+        <li style="width: 200px;">Veg Biryani</li>
+        <li style="width: 200px;"> Masala Dosa</li>
+        <li style="width: 200px;"> Butter Naan</li>
+    </ol>
+ 
+    <img src="https://images.lifestyleasia.com/wp-content/uploads/sites/7/2022/02/01171421/YFL-Pav-Bhaji-2.jpg?tr=w-1600" >
+
+
+    <p>Pav Bhaji</p>
+    <img src="https://www.indianveggiedelight.com/wp-content/uploads/2021/08/air-fryer-paneer-tikka-featured.jpg" alt="">
+    <p>Paneer tikka</p>
+    <img src="https://www.cookwithmanali.com/wp-content/uploads/2019/09/Vegetable-Biryani-Restaurant-Style.jpg" alt="">
+    <p>Veg Biryani</p>
+    <img src="https://hebbarskitchen.com/wp-content/uploads/2020/07/masala-dosa-recipe-crispy-masale-dose-how-to-make-masala-dosa-2-768x1153.jpeg" alt="">
+    <p>Masala Dosa</p>
+    <img src="https://i1.wp.com/www.flavoursonplate.com/wp-content/uploads/2019/03/Butter-naan.jpg?w=1200&ssl=1" alt="">
+    <p>Butter Naan</p>
+
+</body>
+</html>
